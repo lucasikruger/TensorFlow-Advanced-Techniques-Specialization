@@ -30,8 +30,6 @@ The specialization covers the following topics:
     - [ ] Week 3: Generative Adversarial Networks with Tensorflow
     - [ ] Week 4: Advanced Topics in Generative Deep Learning
 
-## Reflection
-As I complete each week of the course, I'll use this section to reflect on what I've learned and any challenges I encountered.
 
 ## Resources
 Here, I'll list any resources that I found helpful while working through the course.
