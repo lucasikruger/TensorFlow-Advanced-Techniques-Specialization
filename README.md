@@ -11,7 +11,7 @@ The specialization covers the following topics:
 ## Progress
 - [ ] Custom Models, Layers, and Loss Functions with Tensorflow 
     - [x] Week 1: Introduction to Custom Models and Layers
-    - [ ] Week 2: Advanced Custom Models and Layers
+    - [x] Week 2: Advanced Custom Models and Layers
     - [ ] Week 3: Custom Loss Functions
     - [ ] Week 4: Advanced Topics in Custom Models and Layers
 - [ ] Custom and Distributed Training with Tensorflow
