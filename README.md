@@ -3,18 +3,18 @@ This repository tracks my progress through the "TensorFlow: Advanced Techniques 
 
 ## Course Overview
 The specialization covers the following topics:
-- [ ] Custom Models, Layers, and Loss Functions with Tensorflow 
+- [x] Custom Models, Layers, and Loss Functions with Tensorflow 
 - [ ] Custom and Distributed Training with Tensorflow
 - [ ] Advanced Computer Vision with Tensorflow
 - [ ] Generative Deep Learning with Tensorflow
 
 ## Progress
-- [ ] Custom Models, Layers, and Loss Functions with Tensorflow 
+- [x] Custom Models, Layers, and Loss Functions with Tensorflow 
     - [x] Week 1: Introduction to Custom Models and Layers
     - [x] Week 2: Advanced Custom Models and Layers
     - [x] Week 3: Custom Loss Functions
     - [x] Week 4: Advanced Topics in Custom Models and Layers
-    - [ ] Week 5: Built-in Callbacks
+    - [x] Week 5: Built-in Callbacks
 - [ ] Custom and Distributed Training with Tensorflow
     - [ ] Week 1: Introduction to Distributed Training
     - [ ] Week 2: Advanced Distributed Training
