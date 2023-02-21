@@ -16,7 +16,7 @@ The specialization covers the following topics:
     - [x] Week 4: Advanced Topics in Custom Models and Layers
     - [x] Week 5: Built-in Callbacks
 - [ ] Custom and Distributed Training with Tensorflow
-    - [ ] Week 1: Introduction to Distributed Training
+    - [x] Week 1: Introduction to Distributed Training
     - [ ] Week 2: Advanced Distributed Training
     - [ ] Week 3: Custom and Distributed Training with Tensorflow
     - [ ] Week 4: Advanced Topics in Distributed Training
