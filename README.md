@@ -25,8 +25,8 @@ The specialization covers the following topics:
   - [x] Week 3: Graph Mode
   - [x] Week 4: Distributed Training
 - [ ] Advanced Computer Vision with TensorFlow
-  - [ ] Week 1: Introduction to Computer Vision
-  - [ ] Week 2: Object Detection
+  - [x] Week 1: Introduction to Computer Vision
+  - [x] Week 2: Object Detection
   - [ ] Week 3: Image Segmentation
   - [ ] Week 4: Visualization and Interpretability
 - [ ] Generative Deep Learning with TensorFlow
